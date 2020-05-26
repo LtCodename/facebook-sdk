@@ -17,5 +17,4 @@ FBInstant.initializeAsync().then(function(game) {
 
         game.start();
     });
-}
-);
+});
